@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6285822347348'] 
+global.owner = ['6288271707571'] 
 global.mods = [] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ArullOfc'
-global.numberowner = '6285822347348'
+global.nameowner = 'ReyzOfc'
+global.numberowner = '6288271707571'
 global.instagram = 'https://instagram.com/sahrulwara_____'
 global.github = 'https://github.com/sahrull11'
 global.dana = '085822347348'
@@ -13,7 +13,7 @@ global.pulsa = '085822347348,083843192208'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ArullBotzMD'
+global.namebot = 'ReyzBotzMD'
 global.gc = 'https://chat.whatsapp.com/Hs5rHr27xu49VRLgdliMfR'
 global.web = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
